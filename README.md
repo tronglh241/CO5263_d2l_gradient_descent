@@ -35,3 +35,7 @@ jupyter notebook
 ### 3. Open in Your Browser
 
 After launching, your default browser should open automatically. If not, copy the URL with the token shown in the terminal and paste it into your browser.
+
+## References
+
+* Aston Zhang; Zack C. Lipton; Mu Li; Alex J. Smola. *Dive into Deep Learning*. [https://d2l.ai](https://d2l.ai)
